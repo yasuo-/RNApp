@@ -1,0 +1,14 @@
+{
+    "react-native-tools.logLevel": null,
+    "eslint.options": {
+      "editor.formatOnSave": true,
+      "javascript.format.enable": true,
+      "prettier.eslintIntegration": true
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.packageManager": "yarn",
+    "eslint.run": "onSave",
+    "editor.formatOnSave": true
+}

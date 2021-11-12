@@ -8,7 +8,8 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "generate": "plop"
   },
   "dependencies": {
     "react": "17.0.2",
@@ -33,6 +34,7 @@
     "jest": "^26.6.3",
     "jest-circus": "^27.3.1",
     "metro-react-native-babel-preset": "^0.66.2",
+    "plop": "^2.7.6",
     "react-native-testing-library": "^6.0.0",
     "react-test-renderer": "17.0.2",
     "ts-jest": "^27.0.7",

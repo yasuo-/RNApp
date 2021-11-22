@@ -1,5 +1,4 @@
 import React, {useRef} from 'react';
-
 import {
   NavigationContainer,
   useNavigationContainerRef,

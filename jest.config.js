@@ -5,4 +5,5 @@ module.exports = {
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json', 'node'],
   moduleDirectories: ['node_modules', __dirname],
   testRunner: 'jest-circus/runner',
+  // setupFiles: ['./jest/setup.js'],
 };
